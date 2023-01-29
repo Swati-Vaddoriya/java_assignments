@@ -2,7 +2,7 @@ package arrays_assignment;
 
 public class CopyArrayInOtherEmptyArray {
 	public static void main(String[] args) {
-		int[] array = {10,20,30,40,50};
+		int[] array = {3,5,7,9};
 		int[] array2 = {};
 		
 		array2 = array;
